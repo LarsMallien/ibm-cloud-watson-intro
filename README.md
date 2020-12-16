@@ -1,10 +1,17 @@
 # IBM Cloud & Watson Chatbot Challenge Intro
+Welcome dear students to the IBM Watson Chatbot Challenge, here you will find all documents, tutorials and other helpful resources you need to get started with IBM Cloud & Watson services:
 
-Welcome dear students, here you will find all documents, tutorials and other helpful resources you need to get started with IBM Cloud & Watson:
+# Module overview
+This modul aims are to design enterprise-specific conversational use cases and implement them using state-of- the-art frameworks of IBM Watson Assistant. You will get insights into the conversational design, natural language processing (NLP) in general and specifically in natural language understanding (NLU) and generation (NLG) as well as  dialogue design. Further, you will get a glimpse into machine learning and knowledge engineering depending on the group project requirements and students preferences.
 
-![IBM-Watson-CIMON-gif](https://www.ibm.com/thought-leadership/smart/ai-in-space-xp/src/img/loader_iss.gif)
+Detailed Modul description: [IBM Watson Chatbot Challenge](https://ibm.box.com/s/oy3ohm6rvzz54mhei1kng3ezzf9dvfkt)
+
+# Registration
+- Sign up for to independent learning module [Registration tool]
 
 In case you wonder who the guy in the picture is, it is CIMON! To learn more about CIMON click [here](https://www.ibm.com/thought-leadership/smart/ai-in-space-xp/).
+![IBM-Watson-CIMON-gif](https://www.ibm.com/thought-leadership/smart/ai-in-space-xp/src/img/loader_iss.gif)
+
 
 ### Getting started:
 - Sign up for an [IBM Cloud account](https://ibm.biz/BdqQUK)
