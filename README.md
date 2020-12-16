@@ -1,4 +1,4 @@
-# IBM Cloud & Watson Intro
+# IBM Cloud & Watson Chatbot Challenge Intro
 
 Welcome dear workshop participants, here you will find all documents, tutorials and other helpful resources you need to get started with IBM Cloud & Watson:
 
